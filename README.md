@@ -1,17 +1,14 @@
-# Data Science Internship – Arch Technologies
+# Arch Technologies – Data Science Internship
 
-This repository contains my internship projects completed during
-Month 1 of the Data Science Internship program at Arch Technologies.
+This repository showcases my work for the Data Science
+Internship program at Arch Technologies.
 
-The projects focus on applying machine learning techniques to
-real-world datasets and gaining hands-on experience in data analysis.
+Across two months, I worked on predictive modeling
+and clustering techniques using Python and scikit-learn.
 
-## Completed Projects
-- Titanic Survival Classification
-- Stock Price Prediction
-
-## Technologies Used
-Python, Pandas, NumPy, Scikit-learn, Google Colab
+The experience enhanced my practical skills in
+data cleaning, feature selection, model building,
+and result interpretation.
 
 ## Author
 Muhammad Ali
